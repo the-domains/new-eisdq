@@ -12,3 +12,7 @@ color:
     - '#4BB5C1'
     - '#7FC6BC'
 name: Testing
+navigation:
+  - name: Wow these people
+    id: 60415ed5-6c59-4f0f-a5f0-c68601802f54
+    type: content
