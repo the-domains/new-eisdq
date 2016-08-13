@@ -1,0 +1,14 @@
+layout_spectrum: 0.10399205912835896
+typography_spectrum: 0.057814510306343436
+color:
+  brandStrength: 0.1679061446338892
+  lightness: 0.11688568932004273
+  saturation: 0.43450126284733415
+  rhythmicContrast: 0.9593139558564872
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: New
