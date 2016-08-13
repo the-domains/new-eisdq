@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-13T09:47:38.575Z'
+datePublished: '2016-08-13T10:09:21.027Z'
 author: []
 via: {}
-dateModified: '2016-08-13T09:47:33.370Z'
+dateModified: '2016-08-13T10:09:20.438Z'
 title: Wow these people
 publisher: {}
 description: The people!!! - yes people
-starred: false
 sourcePath: _posts/2016-08-13-wow-these-people.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: wow-these-people/index.html
 _context: 'http://schema.org'
 _type: Article
