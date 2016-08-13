@@ -1,10 +1,10 @@
-layout_spectrum: 0.8760659722611308
-typography_spectrum: 0.13525372790172696
+layout_spectrum: 0.10399205912835896
+typography_spectrum: 0.057814510306343436
 color:
-  brandStrength: 0.3324679278302938
-  lightness: 0.48677826300263405
-  saturation: 0.5659313097130507
-  rhythmicContrast: 0.6348994839936495
+  brandStrength: 0.1679061446338892
+  lightness: 0.11688568932004273
+  saturation: 0.43450126284733415
+  rhythmicContrast: 0.9593139558564872
   brandColors:
     - '#96CA2D'
     - '#B5E655'
@@ -12,3 +12,7 @@ color:
     - '#4BB5C1'
     - '#7FC6BC'
 name: Testing
+navigation:
+  - name: posts
+    id: 7a726871-5cdf-490e-9c1e-4a0715484f16
+    type: content
