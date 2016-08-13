@@ -1,17 +1,16 @@
 ---
 description: Cool stuff cannnn
-dateModified: '2016-08-13T09:48:41.292Z'
-datePublished: '2016-08-13T09:48:46.597Z'
+dateModified: '2016-08-13T10:04:28.686Z'
+datePublished: '2016-08-13T10:04:29.512Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-13-cool-stuff-cannnn.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: cool-stuff-cannnn/index.html
+_type: Blurb
 
 ---
 ![Nice on can](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47cfea77-9805-4162-985e-6669d68e4bea.jpg)
