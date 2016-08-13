@@ -4,7 +4,7 @@
         <description><![CDATA[Testing]]></description>
         <link>https://thegrid.ai/new-eisdq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 10:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 10:09:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/new-eisdq/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The happy person]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/new-eisdq/the-happy-person/index.html</link>
             <guid isPermaLink="false">a1f57466-576d-4364-a7fa-bd8fb56aa483</guid>
             <pubDate>Sat, 13 Aug 2016 10:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wow these people]]></title>
-            <description><![CDATA[<article><h1>Wow these people</h1><p>The people!!! - yes people</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f9bed71-6395-460f-b813-ba29f58307a0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/new-eisdq/wow-these-people/index.html</link>
-            <guid isPermaLink="false">60415ed5-6c59-4f0f-a5f0-c68601802f54</guid>
-            <pubDate>Sat, 13 Aug 2016 09:47:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
